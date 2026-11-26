@@ -1,0 +1,6 @@
+/terraform-provider-doctest
+/terraform-provider-doctest.exe
+/dist/
+/.terraform/
+*.tfstate
+*.tfstate.*
